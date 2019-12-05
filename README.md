@@ -1,1 +1,1 @@
-# aRESTy
+# aRESTy a PHP test for RESTful API
