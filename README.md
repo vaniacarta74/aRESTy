@@ -1,1 +1,1 @@
-# aRESTy a PHP test for RESTful API
+# aRESTy is a PHP project for RESTful API testing
