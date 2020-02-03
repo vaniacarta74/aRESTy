@@ -1,6 +1,6 @@
 <?php
 
-namespace vaniacarta74\aRESTy\Tests\src;
+namespace vaniacarta74\aRESTy\Tests\unit;
 
 use PHPUnit\Framework\TestCase;
 use vaniacarta74\aRESTy\Calculator;
