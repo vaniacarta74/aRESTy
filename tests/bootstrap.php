@@ -14,5 +14,4 @@
 
 // put your code here
 
-//include_once '/var/www/html/sviluppo/github/vendor/autoload.php';
 include_once '../../vendor/autoload.php';
