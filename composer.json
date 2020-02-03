@@ -1,0 +1,29 @@
+{
+    "name": "vaniacarta74/aresty",
+    "description": "A PHP project for RESTful API testing",
+    "type": "library",
+    "keywords": ["PHP", "REST", "testing"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vaniacarta",
+            "email": "vanjacarta@me.com"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/vaniacarta74/aRESTy"
+    },
+    "require": {
+        "php": "^5.4 || ^7.0"
+    },    
+    "autoload": {
+        "psr-4": {
+            "vaniacarta74\\aRESTy\\": "aRESTy/src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "vaniacarta74\\aRESTy\\Tests\\": "aRESTy/tests/"
+        }
+    }
+}
